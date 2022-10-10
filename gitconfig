@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = andris.asper@gmail.com
+	name = Andris Asper
